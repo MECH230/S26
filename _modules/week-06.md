@@ -1,7 +1,7 @@
 ---
 title: Week 06
 contents:
-  - date: 2025-09-30
+  - date: 2026-02-17
     items:
       - type: lecture
         topics:
@@ -25,13 +25,13 @@ contents:
         link: "https://drive.google.com/file/d/12b9dhoczIXgYKwHvmibTZottEld4e_CQ/view?usp=sharing"
         due_date: 2025-10-09
 
-  - date: 2025-09-30
+  - date: 2025-02-17
     items:
       - type: exercise
         topics:
           - Problems from set 11
   
-  - date: 2025-10-02
+  - date: 2025-02-19
     items:
       - type: lecture
         topics:

@@ -1,7 +1,7 @@
 ---
 title: Week 07
 contents:
-  - date: 2025-10-07
+  - date: 2025-02-24
     items:
       - type: lecture
         topics:
@@ -19,7 +19,7 @@ contents:
         title: Two particles impacting in the plane
         link: "https://youtu.be/4zI-bUmKLKI"
 
-  - date: 2025-10-07
+  - date: 2025-02-24
     items:
       - type: exercise
         topics:
@@ -30,7 +30,7 @@ contents:
         description: Extra problem
         link: "https://thh00.github.io/08-2024-dynamics/HW/HW05.pdf"
 
-  - date: 2025-10-09
+  - date: 2025-02-26
     items:
       - type: lecture
         topics:

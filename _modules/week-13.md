@@ -1,7 +1,7 @@
 ---
 title: Week 13
 contents:
-  - date: 2025-11-18
+  - date: 2025-04-07
     items:
       - type: lecture
         topics:
@@ -22,13 +22,13 @@ contents:
         link: "https://drive.google.com/file/d/1HcCirFbRn_U-d5hlMa4sHl1O9a7oKrVK/view?usp=sharing"
         due_date: 2025-11-25
 
-  - date: 2025-11-18
+  - date: 2025-04-07
     items:
       - type: exercise
         topics:
           - TBD
 
-  - date: 2025-11-20
+  - date: 2025-04-09
     items:
       - type: lecture
         topics:

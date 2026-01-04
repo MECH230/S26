@@ -1,7 +1,7 @@
 ---
 title: Week 10
 contents:
-  - date: 2025-10-28
+  - date: 2026-03-17
     items:
       - type: lecture
         topics:
@@ -17,16 +17,17 @@ contents:
         link: "https://drive.google.com/file/d/1Woy6UhemJ3lC3GXt6Dq7SMqGuGRPZW7U/view?usp=sharing"
         due_date: 2025-11-11
       
-  - date: 2025-10-28
+  - date: 2026-03-17
     items:
       - type: exercise
         topics:
         - TBD
 
-  - date: 2025-10-30
+  - date: 2026-03-19
     items:
       - type: lecture
         topics:
+        - Holiday
         - Rolling and Sliding
       - type: problem_set
         title: Set 17 - Rolling and Sliding

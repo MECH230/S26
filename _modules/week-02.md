@@ -1,7 +1,7 @@
 ---
 title: Week 02
 contents:
-  - date: 2025-09-02
+  - date: 2026-01-20
     items:
       - type: lecture
         topics:
@@ -27,7 +27,7 @@ contents:
         solution_link: "###"
         due_date: 2025-09-10
 
-  - date: 2025-09-02
+  - date: 2026-01-20
     items:
       - type: exercise
         topics:
@@ -38,7 +38,7 @@ contents:
         link: "###"
         solution_link: "###"
 
-  - date: 2025-09-04
+  - date: 2026-01-22
     items:
       - type: lecture
         topics:

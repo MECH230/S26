@@ -1,7 +1,7 @@
 ---
 title: Week 08
 contents:
-  - date: 2025-10-14
+  - date: 2026-03-03
     items:
       - type: lecture
         topics:
@@ -16,7 +16,7 @@ contents:
         link: "https://drive.google.com/file/d/1GREl38Tf3HoywHYi5SH6JnO0WXucaH6y/view?usp=sharing"
         due_date: 2025-10-21
 
-  - date: 2025-10-14
+  - date: 2026-03-03
     items:
       - type: exercise
         topics:
@@ -28,7 +28,7 @@ contents:
       #   link: "https://drive.google.com/file/d/1TjLyPmIOZe3-FzZSBUetrTKB9M6v-OFV/view?usp=sharing"
       #   solution_link: "https://drive.google.com/file/d/1UG7nz-ozu5CzIKJ_66lqHOe3ksRsywHU/view?usp=sharing"
         
-  - date: 2025-10-16
+  - date: 2026-03-05
     items:
       - type: lecture
         topics:

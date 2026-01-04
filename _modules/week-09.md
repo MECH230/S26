@@ -1,7 +1,7 @@
 ---
 title: Week 09
 contents:
-  - date: 2025-10-21
+  - date: 2026-03-10
     items:
       - type: lecture
         topics:
@@ -17,11 +17,11 @@ contents:
         link: "https://drive.google.com/file/d/1B0spZrfz-Haia2IbQ52zuccyAGR7AigN/view?usp=sharing"
         due_date: 2025-10-30
 
-  - date: 2025-10-22
+  - date: 2025-03-10
     items:
       - type: exercise
 
-  - date: 2025-10-23
+  - date: 2025-03-12
     items:
       - type: lecture
         topics:

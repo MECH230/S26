@@ -1,7 +1,7 @@
 ---
 title: Week 04
 contents:
-  - date: 2025-07-01
+  - date: 2026-02-03
     items:
       - type: lecture
         topics:
@@ -11,7 +11,7 @@ contents:
         link: "https://drive.google.com/file/d/1rQ50eFiC8wnqj7DV-wCSg04OgXKUKMVB/view?usp=share_link"
         due_date: 2025-09-23
 
-  - date: 2025-07-02
+  - date: 2026-02-03
     items:
       - type: exercise
         topics:
@@ -26,7 +26,7 @@ contents:
         link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1C_fikstDKjVZwX6BM0Y8Xf_ftwCiu4W7/view?usp=sharing"
 
-  - date: 2025-07-03
+  - date: 2026-02-05
     items:
       - type: lecture
         topics:

@@ -1,7 +1,7 @@
 ---
 title: Week 03
 contents:
-  - date: 2025-09-09
+  - date: 2026-01-27
     items:
       - type: lecture
         topics:
@@ -20,7 +20,7 @@ contents:
         link: "https://drive.google.com/file/d/1MJQQSiSne8w94qW0Ld4KdYUAonn7RFj5/view?usp=sharing"
         due_date: 2025-09-16
 
-  - date: 2025-09-09
+  - date: 2026-01-27
     items:
       - type: exercise
         topics:
@@ -29,7 +29,7 @@ contents:
         title: Extra problems
         link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
 
-  - date: 2025-09-11
+  - date: 2026-01-29
     items:
       - type: lecture
         topics:

@@ -1,7 +1,7 @@
 ---
 title: Week 05
 contents:
-  - date: 2025-09-23
+  - date: 2026-02-10
     items:
       - type: lecture
         topics:
@@ -18,13 +18,13 @@ contents:
         link: "https://drive.google.com/file/d/1KNr2Cn3iyFWrU-RGfgQAU23Et5GENMxh/view?usp=share_link"
         due_date: 2025-10-02
 
-  - date: 2025-09-23
+  - date: 2026-02-10
     items:
       - type: exercise
         topics:
           - tbd
 
-  - date: 2025-09-25
+  - date: 2026-02-12
     items:
       - type: lecture
         topics:
