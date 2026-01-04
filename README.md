@@ -26,8 +26,8 @@ You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Exam 1 | Saturday February 7 or 21 at 8:30-10:30am | IOEC 224ABC |
-| Exam 2 | Saturday March 14 or 28 at 8:30-10:30am | IOEC 224ABC|
+| Exam 1 | Saturday February 7 or 21 at 8:30-10:30am | Nicely 500 |
+| Exam 2 | Saturday March 14 or 28 at 8:30-10:30am | Nicely 500 |
 | Final Exam | TBD between May 5-16 | TBD |
 
 # Previous Exams
