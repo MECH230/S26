@@ -26,9 +26,9 @@ You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Exam 1 | Saturday September 27 at 9-11am | IOEC 224ABC |
-| Exam 2 | Saturday November 1 at 9-11am | IOEC 224ABC|
-| Final Exam | TBD between December 3-12 | TBD |
+| Exam 1 | Saturday February 7 or 21 at 8:30-10:30am | IOEC 224ABC |
+| Exam 2 | Saturday March 14 or 28 at 8:30-10:30am | IOEC 224ABC|
+| Final Exam | TBD between May 5-16 | TBD |
 
 # Previous Exams
 
