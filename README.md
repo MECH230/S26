@@ -8,6 +8,17 @@ seo:
   name: MECH230 Dynamics
 ---
 
+# Sections
+
+| Num | Meeting Time | Instructor | Location | Exercise Session | Instructor | Location |
+| -- | -- | -- | -- | -- | -- | -- |
+| 1 | MWF 9:00-9:50am | Dr. Jihad Kasamani | IOEC 217 | W 3:30-4:45pm | TBD | Bechtel 209 |
+| 2 | TR  9:30-10:45am | Dr. Theresa Honein | IOEC 216 | T 2-3:15pm | TBD | Bechtel 204 |
+| 3 | MW 12:30-1:45 | Dr. Jihad Kasamani | IOEC 216 | M 3:30-4:45 | TBD | Bechtel 209 |
+| 5 | TR 2:00-3:15pm | Dr. Theresa Honein | IOEC 217 | T 3:30-4:45 | TBD | Bechtel 209 |
+| 6 | MWF 10:00-10:50am | Dr. Jihad Kasamani | IOEC 217 | W 12:00-1:15pm | TBD | Bechtel 209 |
+
+
 # Lecture Notes
 You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9TQVR_x3-o1vOThzzxYG_eBrRD/view?usp=sharing).
 
