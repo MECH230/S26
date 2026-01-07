@@ -8,6 +8,17 @@ seo:
   name: MECH230 Dynamics
 ---
 
+# Lecture Notes
+You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9TQVR_x3-o1vOThzzxYG_eBrRD/view?usp=sharing).
+
+# Exam Schedule
+
+| Exam | Date | Location |
+| -- | -- | -- |
+| Exam 1 | Saturday February 7 or 21 at 8:00-10:00am | Nicely 500 |
+| Exam 2 | Saturday March 14 or 28 at 4:00-6:30pm | Nicely 500 |
+| Final Exam | TBD between May 5-16 | TBD |
+
 # Sections
 
 | Num | Meeting Time | Instructor | Location | Exercise Session | Instructor | Location |
@@ -17,18 +28,6 @@ seo:
 | 3 | MW 12:30-1:45 | Dr. Jihad Kasamani | IOEC 216 | M 3:30-4:45 | TBD | Bechtel 209 |
 | 5 | TR 2:00-3:15pm | Dr. Theresa Honein | IOEC 217 | T 3:30-4:45 | TBD | Bechtel 209 |
 | 6 | MWF 10:00-10:50am | Dr. Jihad Kasamani | IOEC 217 | W 12:00-1:15pm | TBD | Bechtel 209 |
-
-
-# Lecture Notes
-You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9TQVR_x3-o1vOThzzxYG_eBrRD/view?usp=sharing).
-
-# Exam Schedule
-
-| Exam | Date | Location |
-| -- | -- | -- |
-| Exam 1 | Saturday February 7 or 21 at 8:30-10:30am | Nicely 500 |
-| Exam 2 | Saturday March 14 or 28 at 8:30-10:30am | Nicely 500 |
-| Final Exam | TBD between May 5-16 | TBD |
 
 # Previous Exams
 
