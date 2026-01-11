@@ -41,11 +41,11 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Bechtel 532
-      - name: Exercise session 2
+      - name: Exercise Session 2
         start: 2:00 PM
         end: 3:15 PM
         location: Bechtel 209
-      - name: Exercise session 5
+      - name: Exercise Session 5
         start: 3:30 PM
         end: 4:45 PM
         location: Bechtel 209

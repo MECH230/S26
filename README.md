@@ -11,6 +11,9 @@ seo:
 # Lecture Notes
 You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9TQVR_x3-o1vOThzzxYG_eBrRD/view?usp=sharing).
 
+# Gradescope
+All the homework is posted on and submitted through [Gradescope](https://www.gradescope.com/courses/1209374).
+
 # Exam Schedule
 
 | Exam | Date | Location |
