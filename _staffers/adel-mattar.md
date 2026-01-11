@@ -1,7 +1,7 @@
 ---
-name: Jana Abou Hijeily
+name: Adel Mattar
 role: Teaching Assistant
-photo: jana_abou_hijeily.jpg
+photo: Placeholder.png
 meta:
   Office Hours: TBD
 ---

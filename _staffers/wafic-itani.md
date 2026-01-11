@@ -1,7 +1,7 @@
 ---
-name: Jana Abou Hijeily
+name: Wafic Itani
 role: Teaching Assistant
-photo: jana_abou_hijeily.jpg
+photo: wafic_itani.jpeg
 meta:
   Office Hours: TBD
 ---
