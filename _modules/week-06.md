@@ -13,17 +13,13 @@ contents:
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
         link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1D1SJpNA_9s0fcBsfSdZixmuF1PRl_Hmd/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1D1SJpNA_9s0fcBsfSdZixmuF1PRl_Hmd/view?usp=sharing"
       - type: lecture_video
         title: Gravitation force model
         link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
       - type: lecture_video
         title: Work-Energy theorem on simple pendulum
         link: "https://www.youtube.com/watch?v=bjpTKehJV7s"
-      - type: homework
-        title: HW 05 - Energy plots for all previous homework
-        link: "https://drive.google.com/file/d/12b9dhoczIXgYKwHvmibTZottEld4e_CQ/view?usp=sharing"
-        due_date: 2025-10-09
 
   - date: 2025-02-17
     items:
@@ -62,7 +58,7 @@ contents:
         title: Set 12 - Momenta and Impulses for a Particle
         description: Momenta and Impulses for a Particle
         link: "https://drive.google.com/file/d/1bYhxkEya7Fe_XuhjY_wyudwdLz2p9TwE/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1aLNlW9LLBoVgpnKZ60V5KpoOsgk6cfxp/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1aLNlW9LLBoVgpnKZ60V5KpoOsgk6cfxp/view?usp=sharing"
 
       
 ---

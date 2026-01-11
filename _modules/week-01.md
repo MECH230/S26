@@ -21,18 +21,17 @@ contents:
       - type: lecture_video
         title: Introduction to Dynamics by Dr. Joseph Bakarji
         link: "https://www.youtube.com/watch?v=icrTzMozNgo"
-      # - type: quiz
-      #   title: Quiz 1
-      #   description: Quiz 1
-      #   link: "https://drive.google.com/file/d/1mILKgbMw_mKmTwt6lRd5mXQ2lkol-UCc/view?usp=drive_link"
-      #   solution_link: "https://drive.google.com/file/d/1mGgBrBhbFaQ8NhaxvTEqCIrh3tnNz6Dg/view?usp=drive_link"
+      - type: quiz
+        title: Quiz 1
+        description: Quiz 1
+        link: "https://drive.google.com/file/d/1eGG9l7k3MOe2sCF4sZBa0knfLf1n9nd8/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1mGgBrBhbFaQ8NhaxvTEqCIrh3tnNz6Dg/view?usp=drive_link"
 
   - date: 2026-01-13
     items:
       - type: exercise
         topics:
-          - Problems from Set 02 - Units
-          - Problems from Set 03 - Rectlinear Motion
+          - Problems from Set 01 - Vector Calculus
 
   - date: 2026-01-15
     items:

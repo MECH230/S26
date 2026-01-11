@@ -10,11 +10,7 @@ contents:
         title: Set 14 - System of particles
         description: System of particles
         link: "https://drive.google.com/file/d/1WXouRu1Y2499q5CVKzFgzgzJR_euEFLr/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1yrYDGBHAtK7ye1WewgWp8ATvpQlpZ3Rg/view?usp=drive_link"
-      - type: homework
-        title: HW 06 - orbital mechanics
-        link: "https://drive.google.com/file/d/1GREl38Tf3HoywHYi5SH6JnO0WXucaH6y/view?usp=sharing"
-        due_date: 2025-10-21
+        # solution_link: "https://drive.google.com/file/d/1yrYDGBHAtK7ye1WewgWp8ATvpQlpZ3Rg/view?usp=drive_link"
 
   - date: 2026-03-03
     items:

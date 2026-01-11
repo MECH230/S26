@@ -16,11 +16,7 @@ contents:
         title: Set 22 - Impulse Momentum for RB
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/1hEpgojVoo9hp0toHVOX6lFYy93x9XHwp/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1IlLcvmio2GYPjVlAr6RSoukpiiWJgOC8/view?usp=sharing"
-      - type: homework
-        title: HW 10 - Ice skater angular momentum conservations
-        link: "https://drive.google.com/file/d/1HcCirFbRn_U-d5hlMa4sHl1O9a7oKrVK/view?usp=sharing"
-        due_date: 2025-11-25
+        # solution_link: "https://drive.google.com/file/d/1IlLcvmio2GYPjVlAr6RSoukpiiWJgOC8/view?usp=sharing"
 
   - date: 2025-04-07
     items:
@@ -37,7 +33,7 @@ contents:
         title: Set 23 - Work-Energy Theorem for RB
         description: Work-Energy Theorem for RB
         link: "https://drive.google.com/file/d/1FocIAMMziaKOkA_uap6GP5oNJtHhlNgu/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1THc-AVwl-okkSOE9TozGGmeoKfIg0kA5/view?usp=sharing"
+        # solution_link: "https://drive.google.com/file/d/1THc-AVwl-okkSOE9TozGGmeoKfIg0kA5/view?usp=sharing"
       - type: lecture_video
         title: Introducing the work-energy theorem of a rigid body
         link: "https://youtu.be/acmYFwl8rRo?si=s4NJ5lJKfXNWWTzD"
