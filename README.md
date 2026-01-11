@@ -39,6 +39,10 @@ You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9
 | Fall 2025 | [Exam](https://drive.google.com/file/d/1nrPkYI2iM1mtgwJxyp7pV66qxYcd9MV_/view?usp=share_link) | [Solution](https://drive.google.com/file/d/1HpGTfD8QvgDmln2VKW7LqZqJMbCRcira/view?usp=share_link) | [Exam](https://drive.google.com/file/d/12MxcHv3Gwhap5vtBWeNPddgl7mroWAAx/view?usp=sharing) | [Solution](https://drive.google.com/file/d/1a0GL6SPSgPAYbfz0NHYVZj8QCMXZBwYq/view?usp=sharing) | [Final](https://drive.google.com/file/d/1lzWcsUxHGZTbVdaGmjV9nm8gS62GeNW9/view?usp=sharing) | [Final Formula Sheet](https://drive.google.com/file/d/11Snv69DQAaOyg1qar8aFNsRNqMIoEmEe/view?usp=sharing) | [Solution](https://drive.google.com/file/d/1463SDyeWoAWt0Y1y0MKxdNaAytmW8vLm/view?usp=share_link) |
 | Spring 2026 | Exam | Solution | Exam | Solution | Final | Final Formula Sheet | Solution |
 
+# Advice From Previous MECH230 Students
+
+[Fall 2024](https://drive.google.com/file/d/1V-WsJTOG-jVP-Rmg3bJIOXwXUHOzCpyk/view?usp=sharing), [Spring 2025](https://drive.google.com/file/d/1WCcY9BbItUS-yxhUW9iOcwbvPE2n6ung/view?usp=sharing), [Fall 2025](https://drive.google.com/file/d/1DHo122XxRBjDnnLu-oa2J9go5XyyJKhX/view?usp=sharing)
+
 
 # Contributors to website and content
 Many thanks to (in no particular order)

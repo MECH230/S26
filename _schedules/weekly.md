@@ -24,11 +24,23 @@ schedule:
   - name: Monday
     events:
       - name: Honein Office Hours
-        start: 9:00 AM
-        end: 12:00 PM
+        start: 11:00 AM
+        end: 12:30 PM
         location: Bechtel 532
   - name: Tuesday
     events:
+      - name: Lecture
+        start: 9:30 AM
+        end: 11:00 AM
+        location: IOEC 216
+      - name: Lecture
+        start: 2:00 PM
+        end: 3:30 PM
+        location: IOEC 217
+      - name: Honein Office Hours
+        start: 11:00 AM
+        end: 12:30 PM
+        location: Bechtel 532
       - name: Lecture
         start: 9:30 AM
         end: 11:00 AM
@@ -44,8 +56,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Honein Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
+        start: 11:00 AM
+        end: 12:30 PM
         location: Bechtel 532
       - name: Tutoring Hours
         start: 3:00 PM
@@ -56,14 +68,22 @@ schedule:
       - name: Lecture
         start: 9:30 AM
         end: 11:00 AM
+        location: IOEC 216
+      - name: Lecture
+        start: 2:00 PM
+        end: 3:30 PM
+        location: IOEC 217
+      - name: Lecture
+        start: 9:30 AM
+        end: 11:00 AM
         location: Bechtel 208
       - name: Tutoring Hours
         start: 2:00 PM
         end: 5:00 PM
         location: Yellow Room
       - name: Honein Office Hours
-        start: 3:30 PM
-        end: 4:30 PM
+        start: 11:00 AM
+        end: 12:30 PM
         location: Bechtel 532
   - name: Friday
     events:
