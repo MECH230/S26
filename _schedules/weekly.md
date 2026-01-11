@@ -29,58 +29,46 @@ schedule:
         location: Bechtel 532
   - name: Tuesday
     events:
-      - name: Lecture
+      - name: Lecture 2
         start: 9:30 AM
-        end: 11:00 AM
+        end: 10:45 AM
         location: IOEC 216
-      - name: Lecture
+      - name: Lecture 5
         start: 2:00 PM
-        end: 3:30 PM
+        end: 3:15 PM
         location: IOEC 217
       - name: Honein Office Hours
         start: 11:00 AM
         end: 12:30 PM
         location: Bechtel 532
-      - name: Lecture
-        start: 9:30 AM
-        end: 11:00 AM
-        location: Bechtel 208
-      - name: Tutoring Hours
+      - name: Exercise session 2
         start: 2:00 PM
-        end: 3:00 PM
-        location: Yellow Room
-      - name: Exercise session
+        end: 3:15 PM
+        location: Bechtel 209
+      - name: Exercise session 5
         start: 3:30 PM
         end: 4:45 PM
         location: Bechtel 209
+      - name: Tutoring Hours
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Yellow Room
   - name: Wednesday
     events:
       - name: Honein Office Hours
         start: 11:00 AM
         end: 12:30 PM
         location: Bechtel 532
-      - name: Tutoring Hours
-        start: 3:00 PM
-        end: 5:00 PM
-        location: Yellow Room
   - name: Thursday
     events:
-      - name: Lecture
+      - name: Lecture 2
         start: 9:30 AM
-        end: 11:00 AM
+        end: 10:45 AM
         location: IOEC 216
-      - name: Lecture
+      - name: Lecture 5
         start: 2:00 PM
-        end: 3:30 PM
+        end: 3:15 PM
         location: IOEC 217
-      - name: Lecture
-        start: 9:30 AM
-        end: 11:00 AM
-        location: Bechtel 208
-      - name: Tutoring Hours
-        start: 2:00 PM
-        end: 5:00 PM
-        location: Yellow Room
       - name: Honein Office Hours
         start: 11:00 AM
         end: 12:30 PM
