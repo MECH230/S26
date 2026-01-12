@@ -37,7 +37,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Velocity, position, acceleration, arc-length
+          - Velocity, position, acceleration and arc-length
           - Rectilinear Motion
       - type: problem_set
         title: Set 03 - Rectlinear Motion
