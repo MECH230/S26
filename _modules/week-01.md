@@ -21,10 +21,10 @@ contents:
       - type: lecture_video
         title: Introduction to Dynamics by Dr. Joseph Bakarji
         link: "https://www.youtube.com/watch?v=icrTzMozNgo"
-      - type: quiz
-        title: Quiz 1
-        description: Quiz 1
-        link: "https://drive.google.com/file/d/1eGG9l7k3MOe2sCF4sZBa0knfLf1n9nd8/view?usp=sharing"
+      # - type: quiz
+      #   title: Quiz 1
+      #   description: Quiz 1
+      #   link: "https://drive.google.com/file/d/1eGG9l7k3MOe2sCF4sZBa0knfLf1n9nd8/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1mGgBrBhbFaQ8NhaxvTEqCIrh3tnNz6Dg/view?usp=drive_link"
 
   - date: 2026-01-13
