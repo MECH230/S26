@@ -1,7 +1,7 @@
 ---
 name: Adel Mattar
 role: Teaching Assistant
-photo: Placeholder.png
+photo: adel_mattar.jpeg
 meta:
   Office Hours: TBD
 ---

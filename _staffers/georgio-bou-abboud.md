@@ -1,7 +1,7 @@
 ---
 name: Georgio Bou Abboud
 role: Teaching Assistant
-photo: Placeholder.png
+photo: georgio_bou_abboud.jpg
 meta:
   Office Hours: TBD
 ---
