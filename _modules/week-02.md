@@ -11,7 +11,7 @@ contents:
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
-        link: "https://drive.google.com/file/d/1GwNZjJtb75NrzKMSyGkRZtp9y90UXTJ_/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1hzLar_sEoBvpHJAOsyIHDikUVa69_Wj5/view?usp=share_link"
         # solution_link: "https://drive.google.com/file/d/1jWBMzEqE70Y4I6gh72lzw5r9I9Bw8hQD/view?usp=sharing"
       - type: lecture_video
         title: Solving differential equations numerically in Python

@@ -42,7 +42,7 @@ contents:
       - type: problem_set
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
-        link: "https://drive.google.com/file/d/1XPbnw_zgBTGB9v5rM4jCqX2SgUoHAn8S/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1OhBjq5UbP5IriJAsQMR1GJTtPGIIqrxL/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1lto_0zX1CH2WxVMZpRxUu_2yRXSCvWlG/view?usp=sharing"
 
 ---
