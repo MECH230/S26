@@ -1,21 +1,32 @@
 ---
-title: Week 1 Announcement
-week: 1
-date: 2026-01-12
+title: Week 1 Debrief
+week: 0
+date: 2026-01-16
 ---
+
 
 Dear Students,
 
-Welcome to MECH230. We are looking forward to a smooth and productive semester!
+Here's our list of accomplishments of the week.
 
-Our first meeting will be during lecture tomorrow. Please note that you are required to attend all classes and exercise sessions, including the first class and first exercise session held on Tuesday January 13.
+- We reviewed important concepts from Statics, namely FBDs, and vector calculus which were the subjects of quizzes 1 and 2 respectively.
+- We started from general continuum mechanics and made a series of assumptions to narrow down the scope of the course.
+- We introduced basic kinematics principles: position, velocity, and acceleration vectors and the arc-length scalar.
+- We derived three scalar identities for the case of rectilinear motion.
 
-Also, kindly complete the following pre-semester checklist:
+You are now able to solve sets 1, 2, 3 which are posted on the class website: https://mech230.github.io/S26/calendar/ Please solve these sets before next lecture, and pass by during office hours if you have any questions.
 
-- Read the [syllabus](https://drive.google.com/file/d/1GPNKJ9yHqptAQO0rxhM3Yv_o8ANCDnAK/view?usp=sharing).
-- Explore the course [website](https://mech230.github.io/S26/).
-- Download the [Gradescope](https://www.gradescope.com/courses/1209374) app on your phone, create an account, and login. Please let me know before tomorrow’s class if you haven’t received an email instructing you that you were enrolled in Gradescope.
-- Note the exam dates listed in the syllabus and on the website homepage. Since this is a huge class (5 sections), we will not be changing the exam times.
+Plan for next week.
 
-Best Regards,<br>
-MECH230 Teaching Team
+- We will introduce the balance of linear momentum for a particle.
+- We will introduce the cylindrical-polar coordinate system.
+
+After Tuesday's lecture, you should be able to complete HW1, posted on Gradescope, which is due on Monday January 26 at 6pm.
+
+PS. We have 3 more weeks to go before our first exam!
+
+Wishing everyone a good weekend!
+
+Best,
+
+Theresa
