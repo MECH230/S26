@@ -8,7 +8,7 @@ permalink: /calendar/
 description: Listing of course modules and topics.
 ---
 
-# Calendar - Theresa Honein
+# Calendar
 
 {% for module in site.modules %}
 {{ module }}
