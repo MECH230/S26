@@ -7,7 +7,7 @@ contents:
         topics:
           - BoLM
           - Four steps to solve a problem
-          - Polar coordinates
+          - Introducing `Degrees of Freedom` and `Equations of Motion`
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
@@ -28,6 +28,7 @@ contents:
       - type: lecture
         topics:
           - Polar coordinates
+          - Cylindrical polar coordinates
       - type: problem_set
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
