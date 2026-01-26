@@ -10,7 +10,7 @@ contents:
       - type: problem_set
         title: Set 06 - Constrained Motion
         description: Constrained Motion
-        link: "https://drive.google.com/file/d/1sKtW-Kc42Lx-TR4QDQ5RgpxcQhGDDRXz/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1-QKKKfUyWn7hXj6hJiVO0Dr5HmtkHfCq/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1bgHnwi0kFdy0mocqe8r0GVJWz4Obx5Ou/view?usp=drive_link"
       - type: lecture_video
         title: Animating the motion of a pendulum in Python
@@ -35,7 +35,7 @@ contents:
       - type: problem_set
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
-        link: "https://drive.google.com/file/d/1iOeubRqbTVT4-f2UfLvGpaTstqDTWOOK/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1i2imOT4kreN62SS7q3rNeR_94Rtv9kVL/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1R2qkYZ0hTvuEjflLj4PE4aI7VsxgEaeK/view?usp=drive_link" 
       - type: lecture_video
         title: Particle on a curve vs. particle on a surface

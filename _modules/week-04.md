@@ -15,7 +15,7 @@ contents:
       - type: problem_set
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
-        link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=share_link"
+        link: "https://drive.google.com/file/d/1hwEG-R41jOvvTRq6h_WUQV8jpUsSx_MM/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1oXd7rqrUQg5yVLI4ZBkLhu1opTHAKEd9/view?usp=drive_link"
       - type: problem_set
         title: Extra problems
