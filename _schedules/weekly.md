@@ -49,10 +49,6 @@ schedule:
         start: 3:30 PM
         end: 4:45 PM
         location: Bechtel 209
-      - name: Tutoring Hours
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Yellow Room
   - name: Wednesday
     events:
       - name: Honein Office Hours
