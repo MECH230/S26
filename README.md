@@ -18,8 +18,8 @@ All the homework is posted on and submitted through [Gradescope](https://www.gra
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Exam 1 | Saturday February 7 or 21 at 8:00-10:00am | Nicely 500 |
-| Exam 2 | Saturday March 14 or 28 at 4:00-6:30pm | Nicely 500 |
+| Exam 1 | Saturday February 7 at 8:00-10:00am | Nicely 500 |
+| Exam 2 | Saturday March 14 at 4:00-6:30pm | Nicely 500 |
 | Final Exam | TBD between May 5-16 | TBD |
 
 # Sections
