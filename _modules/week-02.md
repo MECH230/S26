@@ -38,4 +38,8 @@ contents:
         description: Cylindrical Polar Coordinates
         link: "https://drive.google.com/file/d/1alGJjNQTW5Y4YuJbuRWnATfEbNjHcOqo/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1F1Z_hzFq4om4fXXWPKDvSE7TI0JsHxvR/view?usp=sharing"
+      - type: problem_set
+        title: Set 05 - Cylindrical Polar Coordinates - Solution
+        description: Cylindrical Polar Coordinates - Solution
+        link: "https://drive.google.com/file/d/1HwyPc4oucKnGd55O38lXvxqYF2NANmZy/view?usp=sharing"
 ---
