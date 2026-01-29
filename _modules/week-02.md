@@ -13,6 +13,10 @@ contents:
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1hzLar_sEoBvpHJAOsyIHDikUVa69_Wj5/view?usp=share_link"
         # solution_link: "https://drive.google.com/file/d/1jWBMzEqE70Y4I6gh72lzw5r9I9Bw8hQD/view?usp=sharing"
+      - type: problem_set
+        title: Set 04 - BoLM - Solution
+        description: BoLM
+        link: "https://drive.google.com/file/d/1wPb1AkIsZwUspFiqBsW2voPwLdPS0cmq/view?usp=sharing"
       - type: lecture_video
         title: Solving differential equations numerically in Python
         link: "https://youtu.be/RMkMK32vqyM?si=3FpVpoOILf77oe3J"
