@@ -52,5 +52,9 @@ contents:
         description: Rectilinear Motion
         link: "https://drive.google.com/file/d/1OhBjq5UbP5IriJAsQMR1GJTtPGIIqrxL/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1lto_0zX1CH2WxVMZpRxUu_2yRXSCvWlG/view?usp=sharing"
+      - type: problem_set
+        title: Set 03 - Rectilinear Motion - Solution
+        description: Rectilinear Motion - Solution
+        link: "https://drive.google.com/file/d/1iktS3uJfmjd00bwWLyxxWu6oNzDBZ5pb/view?usp=sharing"
 
 ---
