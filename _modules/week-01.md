@@ -22,6 +22,10 @@ contents:
         description: Units
         link: "https://drive.google.com/file/d/1Rdg04CSyN-9QGe3HXGr5xVUL4HjWej14/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1v5JJeS4PcEXBEIEGFws4aB8cPwEReHaY/view?usp=sharing"
+      - type: problem_set
+        title: Set 02 - Units - Solution
+        description: Units - Solution
+        link: "https://drive.google.com/file/d/18RbaX71ltXGQ-Gij6zisLcYYfOTefSjH/view?usp=sharing"
       - type: lecture_video
         title: Introduction to Dynamics by Dr. Joseph Bakarji
         link: "https://www.youtube.com/watch?v=icrTzMozNgo"
