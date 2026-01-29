@@ -12,6 +12,10 @@ contents:
         description: Constrained Motion
         link: "https://drive.google.com/file/d/1-QKKKfUyWn7hXj6hJiVO0Dr5HmtkHfCq/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1bgHnwi0kFdy0mocqe8r0GVJWz4Obx5Ou/view?usp=drive_link"
+      - type: problem_set
+        title: Set 06 - Constrained Motion - Solution
+        description: Constrained Motion - Solution
+        link: "https://drive.google.com/file/d/1s3ITNiGNvSQfXQRsIJI3AE0I5xRs6mJT/view?usp=sharing"
       - type: lecture_video
         title: Animating the motion of a pendulum in Python
         link: "https://youtu.be/pj7kitk0VcI?si=d-8aW02MytXgkhBs"
