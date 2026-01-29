@@ -14,6 +14,10 @@ contents:
         link: "https://drive.google.com/file/d/1PJ2r8qgA37ovutITwBbBalxlB6l-XVLL/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/12EppCVX208JQsDAhpJ5oOjpvJHObxFgp/view?usp=sharing"
       - type: problem_set
+        title: Set 01 - Vector Calculus - Solution
+        desciption: Vector Calculus - Solution
+        link: "https://drive.google.com/file/d/1UptcGLN1qw5miaZV8INwP2qPUJsylxjv/view?usp=sharing"
+      - type: problem_set
         title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1Rdg04CSyN-9QGe3HXGr5xVUL4HjWej14/view?usp=sharing"
