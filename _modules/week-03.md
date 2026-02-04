@@ -21,9 +21,6 @@ contents:
       - type: exercise
         topics:
           - Relative motion between translating rigid bodies
-      - type: problem_set
-        title: Extra problems
-        link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
 
   - date: 2026-01-29
     items:
