@@ -12,7 +12,7 @@ contents:
       - type: problem_set
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
-        link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1D1SJpNA_9s0fcBsfSdZixmuF1PRl_Hmd/view?usp=sharing"
       - type: lecture_video
         title: Gravitation force model
