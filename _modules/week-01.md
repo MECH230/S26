@@ -12,20 +12,12 @@ contents:
         title: Set 01 - Vector Calculus
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1PJ2r8qgA37ovutITwBbBalxlB6l-XVLL/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/12EppCVX208JQsDAhpJ5oOjpvJHObxFgp/view?usp=sharing"
-      - type: problem_set
-        title: Set 01 - Vector Calculus - Solution
-        desciption: Vector Calculus - Solution
-        link: "https://drive.google.com/file/d/1UptcGLN1qw5miaZV8INwP2qPUJsylxjv/view?usp=sharing"
+        solution_link:  "https://drive.google.com/file/d/1UptcGLN1qw5miaZV8INwP2qPUJsylxjv/view?usp=sharing"
       - type: problem_set
         title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1Rdg04CSyN-9QGe3HXGr5xVUL4HjWej14/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1v5JJeS4PcEXBEIEGFws4aB8cPwEReHaY/view?usp=sharing"
-      - type: problem_set
-        title: Set 02 - Units - Solution
-        description: Units - Solution
-        link: "https://drive.google.com/file/d/18RbaX71ltXGQ-Gij6zisLcYYfOTefSjH/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/18RbaX71ltXGQ-Gij6zisLcYYfOTefSjH/view?usp=sharing"
       - type: lecture_video
         title: Introduction to Dynamics by Dr. Joseph Bakarji
         link: "https://www.youtube.com/watch?v=icrTzMozNgo"
@@ -51,10 +43,6 @@ contents:
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
         link: "https://drive.google.com/file/d/1OhBjq5UbP5IriJAsQMR1GJTtPGIIqrxL/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1lto_0zX1CH2WxVMZpRxUu_2yRXSCvWlG/view?usp=sharing"
-      - type: problem_set
-        title: Set 03 - Rectilinear Motion - Solution
-        description: Rectilinear Motion - Solution
-        link: "https://drive.google.com/file/d/1iktS3uJfmjd00bwWLyxxWu6oNzDBZ5pb/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1iktS3uJfmjd00bwWLyxxWu6oNzDBZ5pb/view?usp=sharing"
 
 ---
