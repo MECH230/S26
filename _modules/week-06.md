@@ -13,7 +13,7 @@ contents:
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
         link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1D1SJpNA_9s0fcBsfSdZixmuF1PRl_Hmd/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1qSL8U5ZLP-JduYQhY6jMNJBC7tk8m0od/view?usp=sharing"
       - type: lecture_video
         title: Gravitation force model
         link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
@@ -58,7 +58,7 @@ contents:
         title: Set 12 - Momenta and Impulses for a Particle
         description: Momenta and Impulses for a Particle
         link: "https://drive.google.com/file/d/1bYhxkEya7Fe_XuhjY_wyudwdLz2p9TwE/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1aLNlW9LLBoVgpnKZ60V5KpoOsgk6cfxp/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1-AJ2q6mBWBMmAGVlXXTeDC-pyH5Y7Ns4/view?usp=sharing"
 
       
 ---
