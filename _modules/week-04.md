@@ -16,7 +16,7 @@ contents:
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
         link: "https://drive.google.com/file/d/1hwEG-R41jOvvTRq6h_WUQV8jpUsSx_MM/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1oXd7rqrUQg5yVLI4ZBkLhu1opTHAKEd9/view?usp=drive_link"
+        solution_link: "https://drive.google.com/file/d/1AgD6u6MwtNm4IzQeRuyx2oIbhbsewaQO/view?usp=sharing"
       - type: problem_set
         title: Extra problems
         link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
@@ -36,7 +36,7 @@ contents:
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1PPmsn8k0RBkiC5EZDqbrWm2oazFJ58K-/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1U_ynxS96_FId27XrBW52G4h2rLzWYhzb/view?usp=drive_link"
+        solution_link: "https://drive.google.com/file/d/1y9nm3tOAQPloLzh30VWC7Qpji15hWAyp/view?usp=sharing"
       - type: lecture_video
         title: Explaining spring force
         link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
