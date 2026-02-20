@@ -11,7 +11,7 @@ contents:
         title: Set 13 - Collisions
         description: Collisions
         link: "https://drive.google.com/file/d/1iz7B5_rlTtNSmovcdNfZHm6KPo1URmEL/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1zT8a_ks2cixa-RcJtmujwjklHDXOV3XC/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1TmuLK1RzvtiXeFVCiNMTRhGaV2u978Ki/view?usp=sharing"
       - type: lecture_video
         title: Collisions
         link: "https://youtu.be/0GcIPJgpwN4"
