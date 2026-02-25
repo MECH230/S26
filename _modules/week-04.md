@@ -16,7 +16,7 @@ contents:
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
         link: "https://drive.google.com/file/d/1hwEG-R41jOvvTRq6h_WUQV8jpUsSx_MM/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1HgR-vMz9fIksoHj21NjWlw6jGPNXMcVb/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1QQgxl9akanrvbiTawejY5GBnRvIU_roY/view?usp=sharing"
       - type: problem_set
         title: Extra problems
         link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
@@ -32,11 +32,11 @@ contents:
         title: Set 06 - Constrained Motion
         description: Constrained Motion
         link: "https://drive.google.com/file/d/1-QKKKfUyWn7hXj6hJiVO0Dr5HmtkHfCq/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1ffKQ4LGfnrc03U9Fl0Y4LUJZfwqqBbTy/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/17TN8jIvKAnF6jTBRieOHPj_Z5CzSGIDW/view?usp=sharing"
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1PPmsn8k0RBkiC5EZDqbrWm2oazFJ58K-/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1DaBCsCFhTJ7WZV9IK5QGkKpaPlLvn6iB/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1idOOkHZUpZvmYzPySBzcsQRegyvanBLt/view?usp=sharing"
       - type: lecture_video
         title: Explaining spring force
         link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
