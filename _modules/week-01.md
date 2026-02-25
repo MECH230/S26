@@ -12,12 +12,12 @@ contents:
         title: Set 01 - Vector Calculus
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1PJ2r8qgA37ovutITwBbBalxlB6l-XVLL/view?usp=sharing"
-        solution_link:  "https://drive.google.com/file/d/1HQKof4-_G3eofqA6lNZYGQR6n-LTXidr/view?usp=sharing"
+        solution_link:  "https://drive.google.com/file/d/1jC_Zp3KhEjysDpXrAd1OeIl1aj3IRNlh/view?usp=sharing"
       - type: problem_set
         title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1Rdg04CSyN-9QGe3HXGr5xVUL4HjWej14/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/12nwC568lag3TDA9FDCRkmCXZIgyp-DRh/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/19__02ODmYql3yTT3LNJ5EcWTUBeurSev/view?usp=sharing"
       - type: lecture_video
         title: Introduction to Dynamics by Dr. Joseph Bakarji
         link: "https://www.youtube.com/watch?v=icrTzMozNgo"
@@ -43,6 +43,6 @@ contents:
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
         link: "https://drive.google.com/file/d/1OhBjq5UbP5IriJAsQMR1GJTtPGIIqrxL/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1LkXKDAbXFoKQA_6d5mSYgXj4tqtOUB0U/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1Oz3P6kprA_KYyQl_xIHP2iaX4EvmAZw_/view?usp=sharing"
 
 ---
