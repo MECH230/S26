@@ -17,18 +17,6 @@ contents:
       - type: exercise
         topics:
           - Rigid body dynamics
-          - type: lecture_video
-            title: Introducing the work-energy theorem for a rigid body
-            link: "https://youtu.be/acmYFwl8rRo?si=8qD3BVCVTTx9slqx"
-          - type: lecture_video
-            title: Kinetic energy of a rigid body rotating about a fixed point
-            link: "https://youtu.be/3bu7kY8JLpM?si=aKq3BG7Nz-ziOcT1"
-          - type: lecture_video
-            title: Deriving the expression for the kinetic energy of a rigid body
-            link: "https://youtu.be/3HRYCW7wiRs?si=oHoJ09nzgoTOmklW"
-          - type: lecture_video
-            title: Deriving the work energy theorem for a rigid body
-            link: "https://youtu.be/vCROTYHJRow?si=mJT9YmeqSH2M-atX"
       # - type: problem_set
       #   title: Discussion 08 Extra Problems
       #   description: Discussion 08 Extra Problems
