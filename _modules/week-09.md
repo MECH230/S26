@@ -11,7 +11,7 @@ contents:
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
         link: "https://drive.google.com/file/d/1tVQYaDXXNVWzWL8PHN44ztnQba7DaCS6/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1Yqmm-4IXGSBYfINZLXnaXymGxJt3hOpk/view?usp=drive_link"
+        solution_link: "https://drive.google.com/file/d/1VmyPDf8ncwtr3vFJxProfjFfrSVbFMNe/view?usp=sharing"
       - type: lecture_video
         title: Introducing the work-energy theorem for a rigid body
         link: "https://youtu.be/acmYFwl8rRo?si=8qD3BVCVTTx9slqx"
@@ -38,7 +38,7 @@ contents:
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1mFygC4jv4abp_9Xm228kkIX7j30wMofh/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1l69w8XmHmwzlnkU8PUciBqRWN8pcGqnj/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1e9K6JJH8ltER1EKCpktT69aySSUNACm2/view?usp=sharing"
       - type: demo
         title: IC of crank slider
         link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
