@@ -10,7 +10,7 @@ contents:
         title: Set 14 - System of particles
         description: System of particles
         link: "https://drive.google.com/file/d/1WXouRu1Y2499q5CVKzFgzgzJR_euEFLr/view?usp=sharing"
-        # solution_link: "https://drive.google.com/file/d/1yrYDGBHAtK7ye1WewgWp8ATvpQlpZ3Rg/view?usp=drive_link"
+        solution_link: "https://drive.google.com/file/d/1-EJ7wOP-45XG42l5Hm-FqEPQov0KXUGO/view?usp=sharing"
 
   - date: 2026-03-03
     items:
