@@ -29,6 +29,6 @@ contents:
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding
         link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/1qGzF-bOkkLf5WdIhAUwc28oDLNgqwpCF/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1zH4NS4p3W1i6yhKuxcGCI86kkndlHy1w/view?usp=sharing"
 
 ---
