@@ -11,7 +11,7 @@ contents:
         title: Set 18 - Moments of Inertia
         description: Moments of Inertia
         link: "https://drive.google.com/file/d/1FrStbQBfU1WJdupAxwplOqCcVOlT1MDA/view?usp=drivesdk"
-        # solution_link: "https://drive.google.com/file/d/19YsZO7lcYuoRt8brVD3SXy3okce7jqt_/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1TMBfiHpO4zVmhWJ6B0YyNqFl7QGAbNTL/view?usp=sharing"
       - type: lecture_video
         title: Center of mass and linear momentum of a rigid body
         link: "https://youtu.be/101EriK4HIQ"
