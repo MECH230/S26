@@ -17,6 +17,10 @@ contents:
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/1hEpgojVoo9hp0toHVOX6lFYy93x9XHwp/view?usp=sharing"
         # solution_link: "https://drive.google.com/file/d/1IlLcvmio2GYPjVlAr6RSoukpiiWJgOC8/view?usp=sharing"
+      - type: problem_set
+        title: Set 22extra - Impulse Momentum for RB
+        description: Impulse Momentum for RB
+        link: "https://drive.google.com/file/d/1UMFwZyc7cdE6GUVjGfrbkYWeHB6t2tUo/view?usp=sharing"
 
   - date: 2025-04-07
     items:
